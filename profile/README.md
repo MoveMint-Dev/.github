@@ -62,13 +62,47 @@ MoveMint follows modern software engineering practices emphasizing:
 
 MoveMint is developed by a team of five software engineering students from **Ain Shams University — Faculty of Computer and Information Sciences**.
 
-| Team Member | LinkedIn | GitHub |
-|---|---|---|
-| Steven Amin | [LinkedIn](https://www.linkedin.com/in/steven-amin02/) | [GitHub](https://github.com/Steven-Amin02) |
-| Youssef Mohammed | [LinkedIn](https://www.linkedin.com/in/youssefelshemy3756/) | [GitHub](https://github.com/YoussefElshemy99)|
-| Omar Mahmoud |  [LinkedIn](https://www.linkedin.com/in/omarswaken/) | [GitHub](https://github.com/OmarSwaken) |
-| Yousab Ashraf | [LinkedIn](https://www.linkedin.com/in/yousab-ashraf-68320b308/) | [GitHub](https://github.com/YousabAshraf) |
-| Ahmed Hesham |  [LinkedIn](https://www.linkedin.com/in/ahmed-hesham-b59074317/) | [GitHub](https://github.com/Ahmed00Hesham00) |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://github.com/Steven-Amin02">
+          <img src="https://github.com/Steven-Amin02.png?size=200" width="100" alt="Steven Amin">
+        </a><br>
+        <sub><b>Steven Amin</b></sub><br>
+        <sub><a href="https://www.linkedin.com/in/steven-amin02/">LinkedIn</a></sub>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://github.com/YoussefElshemy99">
+          <img src="https://github.com/YoussefElshemy99.png?size=200" width="100" alt="Youssef Mohammed">
+        </a><br>
+        <sub><b>Youssef Mohammed</b></sub><br>
+        <sub><a href="https://www.linkedin.com/in/youssefelshemy3756/">LinkedIn</a></sub>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://github.com/OmarSwaken">
+          <img src="https://github.com/OmarSwaken.png?size=200" width="100" alt="Omar Mahmoud">
+        </a><br>
+        <sub><b>Omar Mahmoud</b></sub><br>
+        <sub><a href="https://www.linkedin.com/in/omarswaken/">LinkedIn</a></sub>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://github.com/YousabAshraf">
+          <img src="https://github.com/YousabAshraf.png?size=200" width="100" alt="Yousab Ashraf">
+        </a><br>
+        <sub><b>Yousab Ashraf</b></sub><br>
+        <sub><a href="https://www.linkedin.com/in/yousab-ashraf-68320b308/">LinkedIn</a></sub>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://github.com/Ahmed00Hesham00">
+          <img src="https://github.com/Ahmed00Hesham00.png?size=200" width="100" alt="Ahmed Hesham">
+        </a><br>
+        <sub><b>Ahmed Hesham</b></sub><br>
+        <sub><a href="https://www.linkedin.com/in/ahmed-hesham-b59074317/">LinkedIn</a></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Industry Sponsor
 
