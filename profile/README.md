@@ -1,5 +1,5 @@
- <p align="center">
-  <img src="./assets/movemint-logo.png" alt="MoveMint Logo" width="220">
+<p align="center">
+  <img src="./assets/movemint-logo.png" alt="MoveMint Logo" width="100%">
 </p>
 
 <h1 align="center">MoveMint</h1>
