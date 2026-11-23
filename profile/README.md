@@ -108,7 +108,7 @@ MoveMint is developed by a team of five software engineering students from **Ain
 
 <p align="center">
   <a href="https://www.deloitte.com/">
-    <img src="./assets/deloitte-logo.png" alt="Deloitte Logo" width="180">
+    <img src="./assets/deloitte-logo.png" alt="Deloitte Logo" width="100%">
   </a>
 </p>
 
