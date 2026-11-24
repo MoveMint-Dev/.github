@@ -5,11 +5,7 @@
 <h1 align="center">MoveMint</h1>
 
 <p align="center">
-  <strong>Intelligent Mobility. Sustainable Cities.</strong>
-</p>
-
-<p align="center">
-  An AI-powered sustainable urban mobility platform.
+  <strong>A carbon-aware app for gamifying daily commuting.</strong>
 </p>
 
 ---
@@ -76,7 +72,7 @@ MoveMint is developed by a team of five software engineering students from **Ain
         <a href="https://github.com/YoussefElshemy99">
           <img src="https://github.com/YoussefElshemy99.png?size=200" width="100" alt="Youssef Mohammed">
         </a><br>
-        <sub><b>Youssef Mohammed</b></sub><br>
+        <sub><b>Youssef Elshemy</b></sub><br>
         <sub><a href="https://www.linkedin.com/in/youssefelshemy3756/">LinkedIn</a></sub>
       </td>
       <td align="center" valign="top">
@@ -122,6 +118,7 @@ The project combines academic research with practical software engineering to ex
 |---|---|
 | Project Name | MoveMint |
 | Institution | Ain Shams University |
+| Supervisor | Dr. Salsabil Amin |
 | Industry Sponsor | Deloitte |
 | Academic Year | 2026–2027 |
 | Domain | Sustainable Urban Mobility |
