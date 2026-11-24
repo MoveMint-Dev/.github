@@ -121,8 +121,8 @@ The project combines academic research with practical software engineering to ex
 | Supervisor | Dr. Salsabil Amin |
 | Industry Sponsor | Deloitte |
 | Academic Year | 2026–2027 |
-| Domain | Sustainable Urban Mobility |
-| Primary Market | Egypt |
+| Domain | Green Tech |
+| Primary Market | Egypt/Greater Cairo |
 | Status | Active Development |
 
 ---
